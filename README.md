@@ -17,13 +17,11 @@ I'm a passionate frontend developer with over 4 years of experience in building 
 🛠️ My Toolbox:
 
 - **Languages:** JavaScript, HTML5, CSS3
-- **Frontend:** React.js, Next.js, Redux, GraphQL
-- **Styling:** CSS Modules, SASS/SCSS, Styled-components
-- **Testing:** Jest, React Testing Library
-- **Build Tools:** Webpack, Babel
+- **Frontend:** React.js, Next.js, Redux, RestApi
+- **Styling:** CSS Modules, SASS/SCSS, Styled-components , Tailwindcss
+- **Build Tools:** Webpack, Npm , Yarn
 - **Version Control:** Git, GitHub
-- **Deployment:** Vercel, Netlify, Heroku
-- **DevOps:** CI/CD pipelines
+- **Deployment:** Vercel, Netlify
 
 🌟 My Work Experience:
 
