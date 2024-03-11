@@ -1,48 +1,15 @@
-👋 Hello, I'm Ahmad Ghasemi!
+<h1 align="center">Hi 👋, I'm ahmad ghasemi</h1>
+<h3 align="center">I'm a passionate frontend developer with over 6 years of experience in building modern web applications using React.js and Next.js.</h3>
 
-I'm a passionate frontend developer with over 4 years of experience in building modern web applications using React.js and Next.js. My journey in the world of web development has been an exciting one, and I'm constantly thrilled by the ever-evolving nature of the field.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-ghasemi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-ghasemi" /> </p>
 
-🚀 What I Bring to the Table:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- **React.js and Next.js Expertise:** I have a deep understanding of React.js and Next.js, and I love leveraging these powerful technologies to create fast, responsive, and user-friendly web applications.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- **UI/UX Focus:** I believe in the importance of creating visually appealing and intuitive user interfaces. I have a keen eye for design details and strive for pixel-perfect implementation.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-ghasemi&show_icons=true&locale=en&layout=compact" alt="ahmad-ghasemi" /></p>
 
-- **Performance Optimization:** Performance matters! I'm experienced in optimizing web applications for speed and efficiency, ensuring a seamless user experience.
-
-- **Team Collaboration:** I thrive in collaborative environments, working closely with designers, backend developers, and product managers to turn ideas into beautiful, functional products.
-
-- **Problem Solver:** I enjoy tackling complex challenges and finding elegant solutions to technical problems. I'm always up for a good coding puzzle!
-
-🛠️ My Toolbox:
-
-- **Languages:** JavaScript, HTML5, CSS3
-- **Frontend:** React.js, Next.js, Redux, RestApi
-- **Styling:** CSS Modules, SASS/SCSS, Styled-components , Tailwindcss
-- **Build Tools:** Webpack, Npm , Yarn
-- **Version Control:** Git, GitHub
-- **Deployment:** Vercel, Netlify
-
-🌟 My Work Experience:
-
-- **Frontend Developer at Etesal App**
-  - **Website:** [https://web.etesalapp.com/](https://web.etesalapp.com/)
-  - Collaborated with a talented team to enhance the Etesal App website, optimizing performance and implementing new features.
-
-- **Frontend Developer at Dana Knowledge Managment Co**
-  - **Website:** [https://www.danakm.com/](https://www.danakm.com/)
-  - Played a pivotal role in the development of the Dana Knowledge Managment Co website, focusing on creating an exceptional user experience.
-
-- **Frontend Developer at Balvin Co**
-  - **Website:** [https://moverii.de/en](https://moverii.de/en)
-  - Contributed to the development of the Balvin Co website, ensuring seamless navigation and a visually appealing design.
-
-- **Frontend Developer at Sos Company**
-  - **Website:** [https://new.iranassistance.com/](https://new.iranassistance.com/)
-  - Led frontend development efforts for the Sos Company website, optimizing performance and enhancing user interactivity.
-
-🌐 Let's Connect:
-
-I'm passionate about open-source development and welcome collaboration. Feel free to reach out for projects, discussions, or just to connect! You can find me here on GitHub and on [LinkedIn](https://www.linkedin.com/in/ahmadghasemii/).
-
-Thanks for visiting my GitHub profile, and happy coding! 🚀
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-ghasemi&show_icons=true&locale=en" alt="ahmad-ghasemi" /></p>
