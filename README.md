@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ahmad ghasemi</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Ghasemi</h1>
 <h3 align="center">I'm a passionate frontend developer with over 6 years of experience in building modern web applications using React.js and Next.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-ghasemi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-ghasemi" /> </p>
